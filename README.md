@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @greentea6
 - 👀 I’m interested in energy economic models
-- 🌱 I’m currently learning IAM
 - 💞️ I’m looking to collaborate on IAMs or energy-environment-economy models
 - 📫 Reach me here 
 
